@@ -133,7 +133,7 @@ vect_speed_unit = vect_speed *(60/(2*pi)); % round/min
 
 Torque_f = P./vect_speed;
 
-Torque_max1 = zeros(n,1);
+Torque_max1 = zeros(n, 1);
 for i = 1 : n
     Torque_max1(i) = 240; % maximum torque
 end
