@@ -1,4 +1,4 @@
-%%
+%% Mini-project: Conversion chain design for a flywheel
 
 %% Default commands
 close all; clear all; clc;
