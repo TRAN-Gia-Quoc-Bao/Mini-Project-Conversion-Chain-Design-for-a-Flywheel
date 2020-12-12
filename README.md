@@ -5,4 +5,6 @@ More about this transformation is found at: https://www.sciencedirect.com/topics
 
 The project was conducted entirely in French. The comments in my codes are in English.
 
+By: Gia Quoc Bao TRAN 
+
 ![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Mini-Project-Conversion-Chain-Design-for-a-Flywheel/blob/main/logoUGA.jpg)
